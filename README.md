@@ -18,7 +18,7 @@ A minimal WordPress theme designed for headless WooCommerce applications. This t
 
 1. Clone or download the repository to your WordPress themes directory:  
    ```bash
-   git clone https://github.com/your-username/headless-woocommerce-theme.git wp-content/themes/headless-theme
+   git clone https://github.com/kpietryga/headless_wp_theme.git wp-content/themes/headless-theme
    ```  
 
 2. Activate the theme in your WordPress admin panel under **Appearance > Themes**.  
